@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+shift+["], "command": "back_sublime_history" },
+    { "keys": ["super+shift+]"], "command": "forward_sublime_history" }
+]

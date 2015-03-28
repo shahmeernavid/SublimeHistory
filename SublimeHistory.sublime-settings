@@ -1,0 +1,7 @@
+{
+    // The minimum number of lines between the new and old cursor positions to
+    // trigger adding the new cursor position to history.
+    "sublime_history_space_barrier": 20,
+    // Maximum number of cursor positions history can contain.
+    "sublime_history_limit": 20
+}
