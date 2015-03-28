@@ -6,4 +6,4 @@ Download files and add them to the SublimeText packages directory. This can be f
 
 # Alternatives
  - [NavigationHistory via PackageControl](https://packagecontrol.io/packages/Navigation%20History)
- - Sublime Text 3 jump_back, jump_forward feature
+ - Sublime Text 3's `jump_back`, `jump_forward` feature
